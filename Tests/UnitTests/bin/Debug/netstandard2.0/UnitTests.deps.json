@@ -1,0 +1,133 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.0/",
+    "signature": "d1eb54737dcba638a1925909ca8dc184d609ffb7"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.0": {},
+    ".NETStandard,Version=v2.0/": {
+      "UnitTests/1.0.0": {
+        "dependencies": {
+          "NETStandard.Library": "2.0.3",
+          "NUnit": "3.10.1",
+          "NUnit.Console": "3.8.0",
+          "NUnit.ConsoleRunner": "3.8.0"
+        },
+        "runtime": {
+          "UnitTests.dll": {}
+        }
+      },
+      "Microsoft.NETCore.Platforms/1.1.0": {},
+      "NETStandard.Library/2.0.3": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "1.1.0"
+        }
+      },
+      "NUnit/3.10.1": {
+        "dependencies": {
+          "NETStandard.Library": "2.0.3"
+        },
+        "runtime": {
+          "lib/netstandard2.0/nunit.framework.dll": {
+            "assemblyVersion": "3.10.1.0",
+            "fileVersion": "3.10.1.0"
+          }
+        }
+      },
+      "NUnit.Console/3.8.0": {
+        "dependencies": {
+          "NUnit.ConsoleRunner": "3.8.0",
+          "NUnit.Extension.NUnitProjectLoader": "3.5.0",
+          "NUnit.Extension.NUnitV2Driver": "3.6.0",
+          "NUnit.Extension.NUnitV2ResultWriter": "3.5.0",
+          "NUnit.Extension.TeamCityEventListener": "1.0.3",
+          "NUnit.Extension.VSProjectLoader": "3.7.0"
+        }
+      },
+      "NUnit.ConsoleRunner/3.8.0": {},
+      "NUnit.Extension.NUnitProjectLoader/3.5.0": {},
+      "NUnit.Extension.NUnitV2Driver/3.6.0": {},
+      "NUnit.Extension.NUnitV2ResultWriter/3.5.0": {},
+      "NUnit.Extension.TeamCityEventListener/1.0.3": {},
+      "NUnit.Extension.VSProjectLoader/3.7.0": {}
+    }
+  },
+  "libraries": {
+    "UnitTests/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.NETCore.Platforms/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
+      "path": "microsoft.netcore.platforms/1.1.0",
+      "hashPath": "microsoft.netcore.platforms.1.1.0.nupkg.sha512"
+    },
+    "NETStandard.Library/2.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-st47PosZSHrjECdjeIzZQbzivYBJFv6P2nv4cj2ypdI204DO+vZ7l5raGMiX4eXMJ53RfOIg+/s4DHVZ54Nu2A==",
+      "path": "netstandard.library/2.0.3",
+      "hashPath": "netstandard.library.2.0.3.nupkg.sha512"
+    },
+    "NUnit/3.10.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-E3ii6+VLdeIxTQ5gPjk/7g/xl+aCifbfcIkiGayZCuos+22FEdtKGrxMe6SzoXCQCcL7gdqhfNIFTaZ1+dS18g==",
+      "path": "nunit/3.10.1",
+      "hashPath": "nunit.3.10.1.nupkg.sha512"
+    },
+    "NUnit.Console/3.8.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-fcE+z3I1U1vPxn//VHqNE74oUWZDoZu1nanDKlYbOMYQpIoLsRsrvSajjVI3PX2VLZtY3FLvKRVEXB/VubnT+A==",
+      "path": "nunit.console/3.8.0",
+      "hashPath": "nunit.console.3.8.0.nupkg.sha512"
+    },
+    "NUnit.ConsoleRunner/3.8.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-CGgYNNMPmK7/BZ7g36g1GcS3heLN2Zl2aAm54dhOZAXZW3l+3S+imyZ3J9WA+SCiRyBC0PbmkCtb4dVkxoxytw==",
+      "path": "nunit.consolerunner/3.8.0",
+      "hashPath": "nunit.consolerunner.3.8.0.nupkg.sha512"
+    },
+    "NUnit.Extension.NUnitProjectLoader/3.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-oe+PYd5uf0u3WoV6txz6esPe5I9I3PV0o96KoEVvJs+AYMG9MCebmnMq7N8dYJrWiDKIuSDwZ6WTs84XTDZ/Pw==",
+      "path": "nunit.extension.nunitprojectloader/3.5.0",
+      "hashPath": "nunit.extension.nunitprojectloader.3.5.0.nupkg.sha512"
+    },
+    "NUnit.Extension.NUnitV2Driver/3.6.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-TZIWwZaND/91p9FCuZH0vJLNPVyFV4No6XHgtd2ZLwN6MQZVPWdI4apL38ejsKAFn3nF1yTlvJgYF1l2mlo8wA==",
+      "path": "nunit.extension.nunitv2driver/3.6.0",
+      "hashPath": "nunit.extension.nunitv2driver.3.6.0.nupkg.sha512"
+    },
+    "NUnit.Extension.NUnitV2ResultWriter/3.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-qz5Xxd+yBStdMP/jIIFz01cN3x8rKBCoF3alFHa5Gr+lZqdFyV1DN+3l8AlHrDSX5OzAz+T5CCBkgDim/hqGkQ==",
+      "path": "nunit.extension.nunitv2resultwriter/3.5.0",
+      "hashPath": "nunit.extension.nunitv2resultwriter.3.5.0.nupkg.sha512"
+    },
+    "NUnit.Extension.TeamCityEventListener/1.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Xl/ISHoJMbQHxpfa06KELaSU46V+KjofeZHAPmlb6ohw4HmmzRp+Hk7vkJPZtNyTrKZbqutefOSMKpnkgEl8tA==",
+      "path": "nunit.extension.teamcityeventlistener/1.0.3",
+      "hashPath": "nunit.extension.teamcityeventlistener.1.0.3.nupkg.sha512"
+    },
+    "NUnit.Extension.VSProjectLoader/3.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3xKLI7hnP5JWL1tauj2OaF7PFoGTNspryvk+894ZQsmEeRHDJwrfxc2sfWokFo2vZmlVCrCcVDl+9ALrhbhrYg==",
+      "path": "nunit.extension.vsprojectloader/3.7.0",
+      "hashPath": "nunit.extension.vsprojectloader.3.7.0.nupkg.sha512"
+    }
+  }
+}

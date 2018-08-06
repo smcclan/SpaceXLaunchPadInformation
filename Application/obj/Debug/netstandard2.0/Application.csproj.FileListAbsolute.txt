@@ -1,0 +1,14 @@
+C:\Users\FQU7910\Documents\source\repos\SpaceXLaunchPadInformation\Application\bin\Debug\netstandard2.0\Application.deps.json
+C:\Users\FQU7910\Documents\source\repos\SpaceXLaunchPadInformation\Application\bin\Debug\netstandard2.0\Application.dll
+C:\Users\FQU7910\Documents\source\repos\SpaceXLaunchPadInformation\Application\bin\Debug\netstandard2.0\Application.pdb
+C:\Users\FQU7910\Documents\source\repos\SpaceXLaunchPadInformation\Application\obj\Debug\netstandard2.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\FQU7910\Documents\source\repos\SpaceXLaunchPadInformation\Application\obj\Debug\netstandard2.0\Application.AssemblyInfoInputs.cache
+C:\Users\FQU7910\Documents\source\repos\SpaceXLaunchPadInformation\Application\obj\Debug\netstandard2.0\Application.AssemblyInfo.cs
+C:\Users\FQU7910\Documents\source\repos\SpaceXLaunchPadInformation\Application\obj\Debug\netstandard2.0\Application.dll
+C:\Users\FQU7910\Documents\source\repos\SpaceXLaunchPadInformation\Application\obj\Debug\netstandard2.0\Application.pdb
+C:\Users\FQU7910\Documents\source\repos\SpaceXLaunchPadInformation\Application\bin\Debug\netstandard2.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\FQU7910\Documents\source\repos\SpaceXLaunchPadInformation\Application\bin\Debug\netstandard2.0\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\FQU7910\Documents\source\repos\SpaceXLaunchPadInformation\Application\obj\Debug\netstandard2.0\Application.csproj.CopyComplete
+C:\Users\FQU7910\Documents\source\repos\SpaceXLaunchPadInformation\Application\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.dll
+C:\Users\FQU7910\Documents\source\repos\SpaceXLaunchPadInformation\Application\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.xml
+C:\Users\FQU7910\Documents\source\repos\SpaceXLaunchPadInformation\Application\obj\Debug\netstandard2.0\Application.csprojAssemblyReference.cache

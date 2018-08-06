@@ -1,0 +1,16 @@
+C:\Users\FQU7910\Documents\source\repos\SpaceXLaunchPadInformation\Infrastructure\bin\Debug\netstandard2.0\Infrastructure.deps.json
+C:\Users\FQU7910\Documents\source\repos\SpaceXLaunchPadInformation\Infrastructure\bin\Debug\netstandard2.0\Infrastructure.dll
+C:\Users\FQU7910\Documents\source\repos\SpaceXLaunchPadInformation\Infrastructure\bin\Debug\netstandard2.0\Infrastructure.pdb
+C:\Users\FQU7910\Documents\source\repos\SpaceXLaunchPadInformation\Infrastructure\obj\Debug\netstandard2.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\FQU7910\Documents\source\repos\SpaceXLaunchPadInformation\Infrastructure\obj\Debug\netstandard2.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\FQU7910\Documents\source\repos\SpaceXLaunchPadInformation\Infrastructure\obj\Debug\netstandard2.0\Infrastructure.AssemblyInfo.cs
+C:\Users\FQU7910\Documents\source\repos\SpaceXLaunchPadInformation\Infrastructure\obj\Debug\netstandard2.0\Infrastructure.dll
+C:\Users\FQU7910\Documents\source\repos\SpaceXLaunchPadInformation\Infrastructure\obj\Debug\netstandard2.0\Infrastructure.pdb
+C:\Users\FQU7910\Documents\source\repos\SpaceXLaunchPadInformation\Infrastructure\obj\Debug\netstandard2.0\Infrastructure.csprojAssemblyReference.cache
+C:\Users\FQU7910\Documents\source\repos\SpaceXLaunchPadInformation\Infrastructure\bin\Debug\netstandard2.0\Application.dll
+C:\Users\FQU7910\Documents\source\repos\SpaceXLaunchPadInformation\Infrastructure\bin\Debug\netstandard2.0\Application.pdb
+C:\Users\FQU7910\Documents\source\repos\SpaceXLaunchPadInformation\Infrastructure\obj\Debug\netstandard2.0\Infrastructure.csproj.CopyComplete
+C:\Users\FQU7910\Documents\source\repos\SpaceXLaunchPadInformation\Infrastructure\bin\Debug\netstandard2.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\FQU7910\Documents\source\repos\SpaceXLaunchPadInformation\Infrastructure\bin\Debug\netstandard2.0\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\FQU7910\Documents\source\repos\SpaceXLaunchPadInformation\Infrastructure\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.dll
+C:\Users\FQU7910\Documents\source\repos\SpaceXLaunchPadInformation\Infrastructure\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.xml

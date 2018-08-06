@@ -1,0 +1,25 @@
+2018-08-04 22:15:32.1775||INFO|SpaceXLaunchPadInformation.Startup|HERE! |url: |action: 
+2018-08-04 22:15:50.0710||INFO|SpaceXLaunchPadInformation.Startup|HERE! |url: |action: 
+2018-08-04 22:15:50.3863|6|FATAL|Microsoft.AspNetCore.Hosting.Internal.WebHost|Application startup exception System.Exception: BAD! no uri
+   at Service.AutofacModule.Load(ContainerBuilder builder) in C:\Users\FQU7910\Documents\source\repos\SpaceXLaunchPadInformation\Service\AutofacModule.cs:line 25
+   at Autofac.Module.Configure(IComponentRegistry componentRegistry)
+   at Autofac.ContainerBuilder.Build(IComponentRegistry componentRegistry, Boolean excludeDefaultModules)
+   at Autofac.ContainerBuilder.Build(ContainerBuildOptions options)
+   at SpaceXLaunchPadInformation.Startup.ConfigureServices(IServiceCollection services) in C:\Users\FQU7910\Documents\source\repos\SpaceXLaunchPadInformation\Service\Startup.cs:line 38
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at Microsoft.AspNetCore.Hosting.ConventionBasedStartup.ConfigureServices(IServiceCollection services)
+   at Microsoft.AspNetCore.Hosting.Internal.WebHost.EnsureApplicationServices()
+   at Microsoft.AspNetCore.Hosting.Internal.WebHost.BuildApplication()|url: |action: 
+2018-08-04 22:19:59.5008||INFO|SpaceXLaunchPadInformation.Startup|HERE! |url: |action: 
+2018-08-04 22:20:18.5074|6|FATAL|Microsoft.AspNetCore.Hosting.Internal.WebHost|Application startup exception System.Exception: The path to the launchpad base uri in the application.json was not found using the path BaseApiUris:LaunchPadInfos
+   at Service.AutofacModule.Load(ContainerBuilder builder) in C:\Users\FQU7910\Documents\source\repos\SpaceXLaunchPadInformation\Service\AutofacModule.cs:line 31
+   at Autofac.Module.Configure(IComponentRegistry componentRegistry)
+   at Autofac.ContainerBuilder.Build(IComponentRegistry componentRegistry, Boolean excludeDefaultModules)
+   at Autofac.ContainerBuilder.Build(ContainerBuildOptions options)
+   at SpaceXLaunchPadInformation.Startup.ConfigureServices(IServiceCollection services) in C:\Users\FQU7910\Documents\source\repos\SpaceXLaunchPadInformation\Service\Startup.cs:line 38
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at Microsoft.AspNetCore.Hosting.ConventionBasedStartup.ConfigureServices(IServiceCollection services)
+   at Microsoft.AspNetCore.Hosting.Internal.WebHost.EnsureApplicationServices()
+   at Microsoft.AspNetCore.Hosting.Internal.WebHost.BuildApplication()|url: |action: 
